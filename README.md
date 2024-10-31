@@ -3,7 +3,8 @@
 **Food Distribution Management System** is a comprehensive platform designed to combat food insecurity and reduce waste through efficient food donation management. Built with modern web technologies, it facilitates secure and traceable food distribution transactions using OTP-based verification.
 
 ## **System Architecture**
-[System architecture diagram above shows the interaction between different components]
+![image](https://github.com/user-attachments/assets/8d71be4f-17a5-4195-abc5-ba16c1cd76e5)
+
 
 ## **Key Features**
 - **Secure Food Donation Management**: End-to-end system for managing food donations and distribution
